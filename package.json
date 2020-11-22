@@ -28,6 +28,7 @@
     "sass": "^1.29.0"
   },
   "dependencies": {
-    "core-js": "^3.7.0"
+    "core-js": "^3.7.0",
+    "node-forge": "^0.10.0"
   }
 }
